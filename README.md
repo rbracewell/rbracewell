@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @rbracewell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p>
+  <h1 align="center"><b>Hi there, i'm Robert</h1>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/bracewellrobert"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://heftyclout.com/"><img src="https://img.shields.io/badge/-WEBSITE-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Personal Website" /></a>&nbsp;
+</p>
+<br />
 
-<!---
-rbracewell/rbracewell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>Cloud Architect working with AWS since 2013</p>
+<br />
